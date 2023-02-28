@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vdietHosting/static/css/main.e6c13ad2.css",
+    "main.js": "/vdietHosting/static/js/main.b188cd12.js",
+    "index.html": "/vdietHosting/index.html",
+    "main.e6c13ad2.css.map": "/vdietHosting/static/css/main.e6c13ad2.css.map",
+    "main.b188cd12.js.map": "/vdietHosting/static/js/main.b188cd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b188cd12.js"
+  ]
+}
