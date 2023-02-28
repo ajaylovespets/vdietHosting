@@ -61,7 +61,6 @@ function FlutterApp() {
         }
         else{
           return '';
-       
         }
       }catch(e){
         console.log(e);
